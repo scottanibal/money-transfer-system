@@ -1,0 +1,65 @@
+body{
+    background-image: url("../images/accessories/logo_1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(204, 204, 204, 04);
+}
+#top-bar{
+    background: rgba(25, 70, 157, 0.5);
+}
+#top-1{
+    border:1px solid transparent;
+}
+#top-1 li{
+    margin:0px 5px 0px 2px;
+}
+#logo{
+    opacity: revert;
+    overflow:hidden;
+}
+#logo img{
+    width:220px;
+}
+#menu ul{
+    border:1px solid transparent;
+    color:white;
+}
+#menu ul li{
+    margin-top:25px;
+}
+.text-menu{
+    color:white;
+    font-size:1.8em;
+    font-weight: bold;
+}
+#track-form{
+    height: 400px;
+    padding-top:120px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#track-form form{
+    border:1px solid transparent;
+    padding:2px 0px 5px 0px;
+    color:white;
+    background-color: rgba(25, 70, 157, 0.6);
+}
+#track-form form label{
+    color:white;
+    font-size: 1.5em;
+}
+#track-view{
+    background-color: rgba(255, 255, 255, 0.6);
+    border:1px solid transparent;
+}
+#track-view span{
+    font-size:1.5em;
+    colo: #19469d;
+}
+#track-view h1{
+    color:#19469d;
+    border-bottom:1px solid #19469d;
+}
+#track-view-amount{
+    backgound-color: rgba(255, 0, 0, 0.5);
+}
+

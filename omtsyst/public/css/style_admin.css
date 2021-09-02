@@ -1,0 +1,144 @@
+#top-1{
+    font-size: 1.125rem;
+}
+.top-x{
+
+}
+#user-x{
+    /*background-color: #F2f2f2;*/
+}
+#user-xy h1{
+    font-weight: bold;
+    color:#19568f;
+}
+#user-show{
+    border:1px solid transparent;
+}
+#user-show h1{
+    color:#19568f;
+    font-weight: bold;
+}
+#user-show span{
+    font-size: 1.5em;
+}
+#menu{
+    padding-top:1em;
+}
+.img-logo{
+    width: 250px;
+}
+#menu .text-menu{
+    font-size: 1.6rem;
+}
+#home-x{
+    padding:0px;
+}
+#home-x img{
+    height:630px;
+}
+#trans-x{
+    padding-top:8px;
+    padding-bottom: 8px;
+    background-color: #F2f2f2;
+}
+#trans-x .trans-xx{
+    background-color: floralwhite;
+}
+#help-x{
+    background-color: #F2f2f2;
+}
+#contactus-x{
+    background-color:#F2f2f2;
+}
+.main{
+    border:1px solid #cccccc;
+}
+.m-right{
+    border:1px solid #cccccc;
+}
+.m-left{
+    border:1px solid #cccccc;
+}
+#footer{
+    padding-top: 8px;
+    background-color: #0e2231;
+    border:1px solid black;
+}
+#footer h3{
+    color: #1d68a7;
+    font-size: 2em;
+    border-bottom:1px solid #ffffff;
+}
+#footer ul li a{
+    font-size: 1.125rem;
+}
+#footer .copy{
+    color: #cccccc;
+    font-size: 1.1rem;
+}
+.mod-pay-x{
+    border-bottom:1px solid #cccccc;
+    padding-top: 5px;
+}
+.amount{
+    font-size: 1.5em;
+}
+.details{
+    border-right: 1px solid #cccccc;
+}
+#mod-pay{
+    padding-top:8px;
+    border:1px solid transparent;
+}
+#mod-pay img{
+    width:250px;
+    height:83px;
+}
+.logo{
+    width:250px;
+}
+#admin-x{
+    border:1px solid #F2f2f2;
+}
+#detail{
+    border:1px solid transparent;
+}
+.confirm{
+    color:white;
+    text-decoration: none;
+}
+#detail h2{
+    color:#19568f;
+    font-weight: bold;
+    display:block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom:1px solid #cccccc;
+}
+#detail-x{
+    border:1px solid transparent;
+}
+#detail-x span{
+    font-size: 1.3em;
+}
+#detail-sender{
+    border-right:1px solid #cccccc;
+}
+#amount{
+    border-top:1px solid #cccccc;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#amount span{
+    font-size: 1.5em;
+    font-weight:bold;
+}
+#withdrawal{
+    border-top:1px solid #cccccc;
+    border-bottom:1px solid #cccccc;
+    padding-top:8px;
+    padding-bottom: 8px;
+}
+#office-x{
+    /*border:1px solid black;*/
+}
